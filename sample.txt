@@ -1,0 +1,4 @@
+Meet with Vinod, Jim and Khue to sort out Server Admin group permissions
+
+Monthly updates to be done for W2K3 server shutdown
+Plan for shutdown
